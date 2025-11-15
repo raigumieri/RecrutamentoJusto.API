@@ -65,7 +65,21 @@ RecrutamentoJusto.API/
 └── Migrations/          # Migrações do banco de dados
 ```
 
+### 📊 Diagramas
+
+#### Fluxo do Processo Seletivo
+<p align="center">
+  <img src="Diagramas/Diagrama_ProcessoSeletivo.drawio.png" alt="Fluxo do Processo Seletivo" width="600">
+</p>
+
+#### Arquitetura da API
+<p align="center">
+  <img src="Diagramas/Diagrama_Arquitetura_API.drawio.png" alt="Arquitetura da API" width="600">
+</p>
+
+
 ---
+
 <div align="center">
   
   ## 🗄️ Modelo de Dados
