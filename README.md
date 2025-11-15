@@ -241,28 +241,6 @@ Cada controller declara sua versão:
 ---
 
 <div align="center"> 
-  
-  ## 🎯 Fluxo do Processo Seletivo
-  
-</div>
-
-```mermaid
-graph TD
-    A[Empresa cria Vaga] --> B[Empresa cria Testes com Questões]
-    B --> C[Candidato se inscreve na Vaga]
-    C --> D[Sistema anonimiza currículo automaticamente]
-    D --> E[RH vê apenas dados anonimizados + pontuação]
-    E --> F[Candidato responde testes]
-    F --> G[Sistema corrige e calcula pontuação]
-    G --> H{Aprovado tecnicamente?}
-    H -->|Sim| I[Sistema revela identidade]
-    H -->|Não| J[Candidato reprovado - recebe feedback]
-    I --> K[RH visualiza dados completos]
-    K --> L[Processo de contratação]
-```
-
----
-<div align="center"> 
 
   ## 🔒 Recursos de Anonimização
   
