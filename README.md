@@ -10,6 +10,12 @@
 - **[Guilherme Fazito Ziolli Sordili]** - **[RM: 550539]**
 - **[Raí Gumieri dos Santos]** - **[RM: 98287]**
 
+## 📹 Vídeo de Demonstração
+
+🎥 [Link do vídeo no YouTube](https://youtu.be/E5Y23XFBhKE) - Demonstração da solução funcionando (4 minutos)
+
+---
+
 <div align="center"> 
 
   ## 📋 Sobre o Projeto
@@ -293,12 +299,6 @@ Quando um candidato se inscreve em uma vaga, o sistema **automaticamente**:
 - **Relacionamentos** bem definidos
 - **Índices únicos** em campos críticos (CNPJ, CPF, Email)
 - **Exclusão lógica** (soft delete) onde apropriado
-
----
-
-## 📹 Vídeo de Demonstração
-
-🎥 [Link do vídeo no YouTube](URL_DO_VIDEO) - Demonstração da solução funcionando (5 minutos)
 
 ---
 
