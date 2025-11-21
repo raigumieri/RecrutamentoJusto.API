@@ -36,6 +36,12 @@ Plataforma digital que utiliza **Inteligência Artificial** para tornar o proces
 - ✅ Automatizar correção de testes e cálculo de pontuação
 - ✅ Revelar identidade apenas após aprovação técnica
 
+### ℹ️ Nota sobre Deploy
+
+Este projeto **não foi implantado em ambiente cloud** (item opcional). A aplicação roda localmente conforme instruções de execução abaixo.
+
+Para testar a API, siga os passos descritos na seção [Como Executar o Projeto](#como-executar-o-projeto).
+
 ---
 
 <div align="center"> 
