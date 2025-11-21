@@ -40,7 +40,7 @@ Plataforma digital que utiliza **Inteligência Artificial** para tornar o proces
 
 Este projeto **não foi implantado em ambiente cloud** (item opcional). A aplicação roda localmente conforme instruções de execução abaixo.
 
-Para testar a API, siga os passos descritos na seção [Como Executar o Projeto](#como-executar-o-projeto).
+Para testar a API, siga os passos descritos na seção **"Como Executar o Projeto"**.
 
 ---
 
@@ -62,7 +62,7 @@ Para testar a API, siga os passos descritos na seção [Como Executar o Projeto]
 ### Estrutura de Pastas
 ```
 RecrutamentoJusto.API/
-├── Controllers/          # Endpoints da API (8 controllers)
+├── Controllers/         # Endpoints da API (8 controllers)
 ├── Models/              # Entidades do banco de dados
 ├── DTOs/                # Objetos de transferência de dados
 │   ├── Empresa/
