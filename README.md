@@ -302,4 +302,9 @@ Quando um candidato se inscreve em uma vaga, o sistema **automaticamente**:
 
 ---
 
-**Desenvolvido com 💙 para um futuro mais justo e inclusivo no mercado de trabalho.**
+<div align="center">
+
+  **Desenvolvido com 💙 para um futuro mais justo e inclusivo no mercado de trabalho.**
+  
+</div>
+
